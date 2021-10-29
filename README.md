@@ -1,7 +1,7 @@
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning PHP, Delphi, Javascript, HTML, CSS and some frameworks like Laravel, Angular, React.
-- 👯 I’m looking to collaborate on interessanting projetcs related new tecnologies.
+- 👯 I’m looking to collaborate on interessanting projetcs related a new tecnologies.
 - 💻 I'm 20 years old.
 
 <div align="center">
