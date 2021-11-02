@@ -11,6 +11,7 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <iframe src="https://giphy.com/embed/13UZisxBxkjPwI" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cheezburger-coding-cheezburgernerds-13UZisxBxkjPwI">via GIPHY</a></p>
   <img align="center" alt="nick-Ts" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="nick-Ts" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
