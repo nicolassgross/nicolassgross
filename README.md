@@ -26,4 +26,4 @@
     <p>dance-screen.netlify.app </p>
   </a>
   <img src="https://i.imgur.com/pXALzSc.gif" class="woot-dance" width="328" height="272" alt="8-bit dancing Karateka guy"></img>
-</div>
+</div><hr>
