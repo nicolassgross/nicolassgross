@@ -23,4 +23,6 @@
 <div align="center">
   <h1>Praticing...</h1> 
   <a href="dance-screen.netlify.app">
+    <img src="https://i.imgur.com/pXALzSc.gif" class="woot-dance" width="328" height="272" alt="8-bit dancing Karateka guy"></img>
+  </a>
 </div>
