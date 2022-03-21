@@ -22,5 +22,5 @@
 
 <div align="center">
   <h1>Praticing...</h1> 
-  <p>https://nico-gif.netlify.app/</p> 
+  <a href="https://nico-gif.netlify.app">
 </div>
