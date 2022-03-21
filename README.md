@@ -22,5 +22,5 @@
 
 <div align="center">
   <h1>Praticing...</h1> 
-  <a href="https://nico-gif.netlify.app">
+  <a href="dance-screen.netlify.app">
 </div>
