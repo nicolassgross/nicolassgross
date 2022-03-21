@@ -21,6 +21,6 @@
 </div>
 
 <div align="center">
-  <p>Praticing...</p> 
+  <h1>Praticing...</h1> 
   <p>https://nico-gif.netlify.app/</p> 
 </div>
