@@ -1,8 +1,9 @@
 
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning PHP, Delphi, Javascript, TypeScript, HTML, CSS and some frameworks like Laravel, Angular, React.
-- 👯 I’m looking to collaborate on interessanting projetcs related a new tecnologies.
-- 💻 I'm 20 years old.
+- 🔭 I’m currently working and praticing on personal projects.
+- 🌱 I’m learning PHP, Javascript, TypeScript, HTML, CSS and some frameworks like Laravel, Laminas, Zend, Angular, React.
+- ⌨️ I have experience in automated testing with Cypress and JMETER.
+- 💻 I’m looking to collaborate on interessanting projetcs related a new tecnologies.
+- 🤙 I'm 21 years old.
 
 <div align="center">
   <a href="https://github.com/nicolassgross">
