@@ -20,10 +20,3 @@
   <img align="center" alt="nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<div align="center">
-  <h1>Praticing...</h1> 
-    <p>dance-screen.netlify.app</p>
-  </a>
-  <img src="https://i.imgur.com/pXALzSc.gif" class="woot-dance" width="328" height="272" alt="8-bit dancing Karateka guy"></img>
-</div><hr>
