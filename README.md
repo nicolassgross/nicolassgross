@@ -20,13 +20,11 @@
 <a target="_blank" href="https://getbootstrap.com/"><img alt="bootstrap logo" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
 <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="javascript logo" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a target="_blank" href="https://vuejs.org/"><img alt="vue.js logo" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
-<a target="_blank" href="https://vuetifyjs.com/"><img alt="vuetify logo" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" /></a>
 <a target="_blank" href="https://nodejs.org/en/about/"><img alt="node.js logo" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 <a target="_blank" href="https://www.php.net/"><img alt="php logo" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 <a target="_blank" href="https://laravel.com/docs"><img alt="laravel logo" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
 <a target="_blank" href="https://www.mysql.com/"><img alt="mysql logo" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a target="_blank" href="https://www.sqlite.org/about.html"><img alt="sqlite logo" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
 <a target="_blank" href="https://jestjs.io/"><img alt="cypress logo" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /></a>
-<a target="_blank" href="https://babeljs.io/"><img alt="babel logo" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" /></a>
 
 </div>
